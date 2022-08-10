@@ -11,27 +11,27 @@
  
  Este é o modelo que ser serguido:
  
- Enter the number of employees: 3
-Employee #1 data:
-Outsourced (y/n)? n
-Name: Alex
-Hours: 50
-Value per hour: 20.00
-
-Employee #2 data:
-Outsourced (y/n)? y
-Name: Bob
-Hours: 100
-Value per hour: 15.00
-Additional charge: 200.00
-
-Employee #3 data:
-Outsourced (y/n)? n
-Name: Maria
-Hours: 60
-Value per hour: 20.00
-
-PAYMENTS:
-Alex - $ 1000.00
-Bob - $ 1720.00
-Maria - $ 1200.0
+ Enter the number of employees: 3 <br>
+Employee #1 data:<br>
+Outsourced (y/n)? n<br>
+Name: Alex<br>
+Hours: 50<br>
+Value per hour: 20.00<br>
+<br>
+Employee #2 data:<br>
+Outsourced (y/n)? y<br>
+Name: Bob<br>
+Hours: 100<br>
+Value per hour: 15.00<br>
+Additional charge: 200.00<br>
+<br>
+Employee #3 data:<br>
+Outsourced (y/n)? n<br>
+Name: Maria<br>
+Hours: 60<br>
+Value per hour: 20.00<br>
+<br>
+PAYMENTS:<br>
+Alex - $ 1000.00<br>
+Bob - $ 1720.00<br>
+Maria - $ 1200.0<br>
